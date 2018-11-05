@@ -5,6 +5,6 @@ print('管理员第三次提交')
 print('开发者第2次提交')
 
 
-a = 'hello'
-print(a)
+b = 'world'
+print('变量b的值是%s'%b)
 
